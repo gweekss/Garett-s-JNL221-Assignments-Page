@@ -14,25 +14,26 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: #241909;
-	color:#00F6ED;
-}
-h4 {
-	font-style: italic;
-	font-size: 40px;
-	font-family: 'Georgia', serif;
+	color:#52796F;
 }
 h3 {
 	font-size: 30px;
 }
-
+h4{
+	font-size: 30px;
+}
+h5{
+	font-size: 30px;
+}
+p{
+	font-family: 'Ephesis', cursive; 
+	font-size: 20px;
+}
 
 img{
     float:right;
 	margin-right: 5%;
 	margin-left: 5%;
-	rotate: 25deg;
-/* I did this in order to give the picture more meaning in its placement rather than looking like it was interrupting the text, as being a part of the post.*/
 }
 
 
@@ -50,4 +51,9 @@ img{
  	min-width: 90%;
  	margin-right: 10px;
  }
+.footer p{
+	background-color: hotpink;
+}
+img{
+	float:none;
 }
